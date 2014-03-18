@@ -6,7 +6,7 @@ package estounogit;
 
 /**
  *
- * @author The Godfather
+ * @author The Godfather.
  */
 public class Wender {
      
