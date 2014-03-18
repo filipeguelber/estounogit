@@ -6,8 +6,8 @@ package estounogit;
 
 /**
  *
- * @author The Godfather.
+ * @author a06014024
  */
-public class Wender {
-     
+public class Mirian {
+    
 }
