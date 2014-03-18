@@ -9,5 +9,6 @@ package estounogit;
  * @author a06014024
  */
 public class Mirian {
+    private int a;
     
 }
